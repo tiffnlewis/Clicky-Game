@@ -12,4 +12,4 @@ https://tiffnlewis.github.io/Clicky-Game/
 
 ## Screenshots
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Clicky Game")
+![alt text](example.png "Clicky Game")
