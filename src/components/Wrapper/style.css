@@ -1,0 +1,14 @@
+.wrapper {
+    background: rgb(221, 218, 218);
+    background-image: url('https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjk49yvn-rhAhUBVd8KHXxJCwIQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDoctor_Who&psig=AOvVaw27OCBwfo3DA01T57h-_HUZ&ust=1556247367695548');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
